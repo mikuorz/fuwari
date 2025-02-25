@@ -99,3 +99,5 @@ category: 旅行
 [札幌篇](日本游记-札幌篇.md) 2025-01-20  
 [小樽篇](日本游记-小樽篇.md) 2025-01-21  
 内容过于变态，不具备展出条件  
+
+![:name](https://count.getloli.com/@Mikuorz?name=Mikuorz&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
