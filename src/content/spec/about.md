@@ -10,8 +10,8 @@
 [Anilist](https://anilist.co/user/Mikuorz/) | 动画记录  
 :::
 :::note[游戏]
-Fate/Grand Order(B服) | 100,116,830,423
-PJSK(日服) | 13143503278698504
+Fate/Grand Order(B服) | 100,116,830,423  
+PJSK(日服) | 13143503278698504  
 :::
 ---
 <iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/DGKkG3_PNTl/embed/captioned/" allowtransparency="true" allowfullscreen="true" frameborder="0" height="400" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="background: white; max-width: 298px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; padding: 0px;"></iframe>
